@@ -15,12 +15,12 @@ const Banner = () => {
 
         <div className=" flex items-center justify-center pb-3">
             <div>
-            <button className="flex border-1 p-2 m-2">
+            <button className="flex border-1 rounded-2xl p-2 m-2">
                 <img className="w-[20px]" src={play} alt="" />Google Play
             </button>
         </div>
         <div>
-            <button className="flex border-1 p-2">
+            <button className="flex border-1 rounded-2xl p-2">
                 <img className="w-[20px]" src={app} alt="" />App Store
             </button>
         </div>
