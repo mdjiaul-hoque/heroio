@@ -1,0 +1,434 @@
+[
+    {
+    "image": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c",
+    "title": "Skyline Planner",
+    "companyName": "UrbanVisions",
+    "id": 17,
+    "description": "Skyline Planner is an advanced city‑planning simulation app where you design, build, and manage a virtual city of your dreams. Construct roads, public transit, parks, and commercial zones. Analyze data on traffic, pollution, and citizen happiness. The app features scenario challenges and offers analytics dashboards to improve your city’s performance over time.",
+    "size": 105,
+    "reviews": 240,
+    "ratingAvg": 4.4,
+    "downloads": 26000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 14 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9kmWSvs6/workout.jpg",
+    "title": "Workout Warrior",
+    "companyName": "FitMotion",
+    "id": 18,
+    "description": "Workout Warrior empowers you to build a fitter, stronger body with tailored workout routines, progress tracking, and community challenges. Whether you’re just starting out or aiming for advanced muscle building, the app adjusts the plan based on your feedback and performance. Includes instructional videos, timer features, and performance stats that help you stay motivated.",
+    "size": 85,
+    "reviews": 310,
+    "ratingAvg": 4.7,
+    "downloads": 34000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 161 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb",
+    "title": "MindScape Journal",
+    "companyName": "ThoughtSpace Inc.",
+    "id": 19,
+    "description": "MindScape Journal is your digital companion for reflection, mindfulness and personal growth. Record daily thoughts, set intentions, observe mood trends, and build a habit of journaling. The app offers prompts, analytics on your emotional state over time, and the ability to export entries or keep them private. You’ll gain insight into yourself and develop clarity through consistent habit formation.",
+    "size": 50,
+    "reviews": 175,
+    "ratingAvg": 4.3,
+    "downloads": 14000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 55 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "CodeCraft Studio",
+    "companyName": "DevMasters",
+    "id": 20,
+    "description": "CodeCraft Studio gives you a mobile IDE experience with syntax highlighting, live preview, version control integration and collaborative editing. Perfect for developers on the move. Build, test and deploy small apps right from your device. It also offers tutorials and templates for various programming languages and frameworks to accelerate your development workflow.",
+    "size": 95,
+    "reviews": 210,
+    "ratingAvg": 4.5,
+    "downloads": 19000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XP9yt5G/vtbl.jpg",
+    "title": "Recipe Deluxe",
+    "companyName": "GourmetApps",
+    "id": 21,
+    "description": "Recipe Deluxe is the ultimate cooking companion, offering thousands of premium recipes, chef‑level video guides, and interactive meal planning tools. Filter by dietary needs, track grocery lists, and receive personalized suggestions based on your cooking history. Connect with other food lovers and share your culinary creations anytime. The app brings gourmet cooking into your home kitchen with elegance and ease.",
+    "size": 80,
+    "reviews": 230,
+    "ratingAvg": 4.6,
+    "downloads": 21000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 11 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 88 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whF9DLwV/map.jpg",
+    "title": "Adventure Map",
+    "companyName": "TrailFinders",
+    "id": 22,
+    "description": "Adventure Map is designed for explorers who love the outdoors. Discover hiking trails, track your route with GPS, log distance and elevation gain, and share your stories. It provides interactive maps, offline capabilities, community‑shared trails, and challenges to push your limits. Whether you’re planning a weekend outing or a multi‑day trek, Adventure Map has the tools you need to explore safely and share the journey.",
+    "size": 115,
+    "reviews": 290,
+    "ratingAvg": 4.6,
+    "downloads": 27000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 13 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 130 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544717305-996b815c338c",
+    "title": "Finance Pro",
+    "companyName": "CapitalSmart",
+    "id": 23,
+    "description": "Finance Pro makes managing investments, budgets, and finances simple and smart. Track portfolios, get real‑time market updates, set saving goals, and visualize trends in your spending. The app also provides alerts for gains/losses and helps you plan long‑term financial strategies. Whether you're an individual or a small business owner, Finance Pro gives you insights and power to make informed financial choices.",
+    "size": 100,
+    "reviews": 330,
+    "ratingAvg": 4.7,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 14 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 130 },
+      { "name": "5 star", "count": 142 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1559526324-593bc073d938",
+    "title": "Music Flow",
+    "companyName": "BeatWave",
+    "id": 24,
+    "description": "Music Flow is a high‑quality music streaming service with millions of tracks, personalized mixes, and offline playback. Discover new artists, listen with hi‑fi sound, follow your favorites, and build communities around your taste. The app also supports lyrics display, live radio channels, and collaborative playlists. Music Flow brings a complete musical journey to your device anytime, anywhere.",
+    "size": 170,
+    "reviews": 450,
+    "ratingAvg": 4.9,
+    "downloads": 55000,
+    "ratings": [
+      { "name": "1 star", "count": 2 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 235 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    "title": "Productivity Plus",
+    "companyName": "WorkSmart Inc.",
+    "id": 1,
+    "description": "Productivity Plus helps you manage your tasks efficiently with a simple and intuitive interface. Track your daily activities, set reminders, collaborate with your team, and analyze productivity patterns with built-in analytics. Whether you are managing personal tasks or team projects, Productivity Plus ensures everything is organized and under control, giving you more time to focus on what matters.",
+    "size": 75,
+    "reviews": 250,
+    "ratingAvg": 4.5,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581092335354-7e9d78bca162",
+    "title": "FitLife Tracker",
+    "companyName": "HealthTech Co.",
+    "id": 2,
+    "description": "FitLife Tracker is your ultimate health companion. Monitor your workouts, calories, heart rate, and sleep patterns. Connect with wearable devices to get real-time data and personalized fitness plans. The app offers challenges, community support, and detailed progress reports to help you stay motivated and achieve your health goals efficiently. FitLife Tracker makes maintaining a healthy lifestyle engaging and sustainable.",
+    "size": 120,
+    "reviews": 400,
+    "ratingAvg": 4.7,
+    "downloads": 28000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "title": "Travel Explorer",
+    "companyName": "GlobeTrotter LLC",
+    "id": 3,
+    "description": "Travel Explorer is designed for wanderlust enthusiasts. Discover new destinations, plan trips, book hotels, and explore local experiences all from one app. The app provides personalized recommendations, offline maps, travel guides, and itinerary planners. You can also share your trips with friends, get real-time travel updates, and track your journey history. Travel Explorer makes every trip seamless, enjoyable, and memorable.",
+    "size": 95,
+    "reviews": 310,
+    "ratingAvg": 4.6,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 185 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581091215364-b6a378f18d72",
+    "title": "NoteMaster",
+    "companyName": "SmartNotes Ltd.",
+    "id": 4,
+    "description": "NoteMaster is a powerful note-taking and organization app that lets you capture ideas, create to-do lists, and manage your projects efficiently. It supports rich text, attachments, tags, and reminders. You can collaborate with colleagues or friends, sync across devices, and organize notes into folders or notebooks. NoteMaster ensures your ideas are never lost and can be accessed anytime, anywhere.",
+    "size": 60,
+    "reviews": 180,
+    "ratingAvg": 4.3,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 60 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581090700227-96c6a10c33b1",
+    "title": "PhotoWizard",
+    "companyName": "CreativeSoft",
+    "id": 5,
+    "description": "PhotoWizard is a feature-rich photo editing app for both professionals and hobbyists. Edit images with advanced filters, effects, layers, and color correction tools. Create collages, add text, and export in high quality. PhotoWizard also integrates with social media platforms for easy sharing. The app combines powerful editing capabilities with a user-friendly interface, making photo enhancement fun and accessible.",
+    "size": 140,
+    "reviews": 500,
+    "ratingAvg": 4.8,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 325 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581091212148-5c3f5dfc9b1e",
+    "title": "Finance Tracker",
+    "companyName": "MoneyWise Inc.",
+    "id": 6,
+    "description": "Finance Tracker helps you manage your personal finances efficiently. Track income, expenses, budgets, and savings goals. The app provides visual analytics, charts, and reports to give insights into your spending habits. You can set alerts for bills, track investments, and plan for future expenses. Finance Tracker makes money management simple, organized, and stress-free.",
+    "size": 110,
+    "reviews": 370,
+    "ratingAvg": 4.6,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 223 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581091215364-89e9f1f49e6a",
+    "title": "Music Vibes",
+    "companyName": "SoundWave",
+    "id": 7,
+    "description": "Music Vibes is your go-to music streaming app. Discover millions of songs, create playlists, follow artists, and listen offline. The app features curated recommendations, daily mixes, and radio stations. It also supports high-quality audio, lyrics display, and social sharing. Music Vibes brings an immersive music experience right to your fingertips, anytime and anywhere.",
+    "size": 180,
+    "reviews": 600,
+    "ratingAvg": 4.9,
+    "downloads": 60000,
+    "ratings": [
+      { "name": "1 star", "count": 3 },
+      { "name": "2 star", "count": 7 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 420 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1581091215364-abcde1234567",
+    "title": "Recipe Master",
+    "companyName": "CookIt",
+    "id": 8,
+    "description": "Recipe Master helps you cook like a pro. Browse thousands of recipes from around the world, create meal plans, and save your favorite dishes. The app provides step-by-step instructions, video tutorials, and ingredient shopping lists. You can also share your creations and rate recipes. Recipe Master makes cooking enjoyable, creative, and easy to follow for beginners and experts alike.",
+    "size": 85,
+    "reviews": 220,
+    "ratingAvg": 4.4,
+    "downloads": 18000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 84 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1590073245740-44e6f9d30a2b",
+    "title": "Task Manager Pro",
+    "companyName": "EfficientWorks",
+    "id": 9,
+    "description": "Task Manager Pro is a comprehensive productivity app designed to help you organize and prioritize your tasks efficiently. Create projects, set deadlines, and track progress with intuitive dashboards. Collaborate with your team, assign tasks, and monitor performance through real-time analytics. The app also includes reminders, recurring tasks, and offline capabilities so you never miss a deadline. Its powerful reporting tools allow you to analyze productivity trends over time and optimize workflows for maximum efficiency.",
+    "size": 95,
+    "reviews": 180,
+    "ratingAvg": 4.5,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 70 },
+      { "name": "5 star", "count": 65 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c4431c4",
+    "title": "Mindful Meditation",
+    "companyName": "ZenLife Apps",
+    "id": 10,
+    "description": "Mindful Meditation is your personal wellness companion designed to reduce stress, improve focus, and enhance mental clarity. The app provides guided meditation sessions, breathing exercises, and sleep aids suitable for beginners and advanced users alike. Track your mindfulness progress, set daily reminders, and join community challenges. Mindful Meditation also offers detailed analytics and tips for building a sustainable meditation habit, helping you cultivate peace and mindfulness in your daily life.",
+    "size": 60,
+    "reviews": 220,
+    "ratingAvg": 4.7,
+    "downloads": 18000,
+    "ratings": [
+      { "name": "1 star", "count": 4 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 108 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1612832021684-4dff80e7ed92",
+    "title": "Language Learner",
+    "companyName": "Polyglot Labs",
+    "id": 11,
+    "description": "Language Learner is an interactive app that makes learning a new language fun and effective. With thousands of lessons, flashcards, quizzes, and real-life dialogues, you can improve reading, writing, speaking, and listening skills. The app uses AI to personalize learning paths and track progress. Engage with a global community, join challenges, and practice with native speakers. Language Learner transforms language education into an immersive experience, helping you achieve fluency faster and more efficiently.",
+    "size": 130,
+    "reviews": 350,
+    "ratingAvg": 4.6,
+    "downloads": 32000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 172 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f",
+    "title": "Budget Buddy",
+    "companyName": "FinanceEase",
+    "id": 12,
+    "description": "Budget Buddy is a personal finance app designed to simplify money management. Track expenses, set budgets, and monitor financial goals with ease. The app provides charts, detailed analytics, and alerts for upcoming bills. You can categorize spending, track investments, and plan for future expenses. Budget Buddy also offers savings tips and insights, making it easier to manage your finances, reduce unnecessary spending, and plan for long-term financial health.",
+    "size": 85,
+    "reviews": 270,
+    "ratingAvg": 4.4,
+    "downloads": 24000,
+    "ratings": [
+      { "name": "1 star", "count": 7 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 118 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1603898037225-7e3f1b6d6eb1",
+    "title": "PhotoMagic",
+    "companyName": "CreativeSoft",
+    "id": 13,
+    "description": "PhotoMagic is a professional photo editing app suitable for both hobbyists and photographers. Apply advanced filters, adjust color balance, edit layers, and create stunning visual effects. You can also make collages, add text overlays, and export high-resolution images. With PhotoMagic, creativity is at your fingertips, and the intuitive interface ensures even beginners can produce high-quality edits. Share your creations directly to social media or save them for professional portfolios.",
+    "size": 150,
+    "reviews": 500,
+    "ratingAvg": 4.8,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 305 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1573497491208-6b1acb260507",
+    "title": "Smart Recipes",
+    "companyName": "CookMaster",
+    "id": 14,
+    "description": "Smart Recipes is your kitchen companion for discovering and cooking delicious meals. Browse thousands of recipes, view step-by-step instructions, and watch video tutorials. Create shopping lists, save favorite recipes, and plan weekly meals. Smart Recipes also provides nutritional information, dietary filters, and community ratings to help you make informed cooking choices. It is perfect for beginners and experienced cooks seeking inspiration in the kitchen.",
+    "size": 90,
+    "reviews": 210,
+    "ratingAvg": 4.5,
+    "downloads": 20000,
+    "ratings": [
+      { "name": "1 star", "count": 6 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 84 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1588776814546-76f2b33d1b72",
+    "title": "Daily Journal",
+    "companyName": "MindSpace",
+    "id": 15,
+    "description": "Daily Journal is an app designed to help you reflect, organize your thoughts, and track personal growth. Write daily entries, set goals, and monitor moods with interactive charts. The app also provides prompts to encourage creativity and mindfulness. You can protect your journal with a password and sync entries across devices. Daily Journal promotes mental well-being, self-reflection, and productivity by making journaling simple, secure, and enjoyable.",
+    "size": 55,
+    "reviews": 160,
+    "ratingAvg": 4.3,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 58 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1593115129153-4d2f0731c6f1",
+    "title": "Travel Buddy",
+    "companyName": "AdventureCo",
+    "id": 16,
+    "description": "Travel Buddy helps you plan, explore, and enjoy your trips like a pro. Discover popular destinations, create itineraries, book accommodations, and find local experiences. The app provides offline maps, travel guides, and personalized recommendations. You can also share your adventures, join challenges, and track travel history. Travel Buddy makes every journey seamless, well-planned, and enjoyable, ensuring unforgettable travel experiences.",
+    "size": 100,
+    "reviews": 300,
+    "ratingAvg": 4.6,
+    "downloads": 28000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 155 }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "title": "TaskFlow Pro",
+    "companyName": "SoftNest Ltd",
+    "id": 1,
+    "description": "A smart productivity app to organize your daily workflow.",
+    "size": 25,
+    "reviews": 430,
+    "ratingAvg": 4.6,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1590608897129-79da98d15969",
+    "title": "FitLife Tracker",
+    "companyName": "HealthyWave",
+    "id": 2,
+    "description": "Track your fitness goals with advanced analytics.",
+    "size": 18,
+    "reviews": 320,
+    "ratingAvg": 4.4,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 130 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1646/1646851.png",
+    "title": "PhotoMaster Edit",
+    "companyName": "PixelForge",
+    "id": 3,
+    "description": "A powerful photo editing app with AI enhancements.",
+    "size": 42,
+    "reviews": 870,
+    "ratingAvg": 4.8,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 555 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+    "title": "RecipeBook+",
+    "companyName": "Foodia Labs",
+    "id": 4,
+    "description": "Explore thousands of recipes and meal plans.",
+    "size": 30,
+    "reviews": 510,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 55 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 271 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+    "title": "LearnMate",
+    "companyName": "EduTech Global",
+    "id": 5,
+    "description": "Interactive learning app with quizzes and video lessons.",
+    "size": 35,
+    "reviews": 620,
+    "ratingAvg": 4.7,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 14 },
+      { "name": "2 star", "count": 28 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 338 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "title": "TripGo",
+    "companyName": "TravelSync",
+    "id": 6,
+    "description": "Plan trips, book hotels, and explore places easily.",
+    "size": 28,
+    "reviews": 450,
+    "ratingAvg": 4.3,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 162 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+    "title": "SecureVault",
+    "companyName": "SafeTech",
+    "id": 7,
+    "description": "Protect your passwords and secure your files.",
+    "size": 15,
+    "reviews": 310,
+    "ratingAvg": 4.9,
+    "downloads": 105000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 195 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+    "title": "MusicWave",
+    "companyName": "SoundLoop",
+    "id": 8,
+    "description": "Listen to music, create playlists, and discover artists.",
+    "size": 50,
+    "reviews": 920,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 430 }
+    ]
+  }
+]
