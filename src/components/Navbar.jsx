@@ -39,7 +39,7 @@ const Navbar = () => {
 
         {/* Contribution Button */}
         <a
-          href="https://github.com/your-profile"
+          href="https://github.com/mdjiaul-hoque/heroio"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-black transition"
