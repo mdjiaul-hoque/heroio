@@ -27,8 +27,8 @@ const Banner = () => {
         </div>
       </div>
 
-      <div className="mx-auto ">
-        <img src={imge} alt="" />
+      <div >
+        <img className="mx-auto " src={imge} alt="" />
       </div>
       <div className="bg-[#632EE3] text-white">
         <h2 className="pt-10 text-center font-bold text-4xl">

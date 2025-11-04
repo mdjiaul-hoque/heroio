@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { FaDownload, FaStar } from 'react-icons/fa';
 import { Link } from 'react-router';
+import Banner from './Banner';
 
 const Trending = () => {
     const [trending, setTrending] = useState([]);
@@ -14,6 +15,12 @@ const Trending = () => {
     }, []);
 
     return (
+
+        <>
+        
+         <Banner></Banner>
+
+
         <div className="max-w-6xl mx-auto px-4 py-8">
 
             <h2 className="text-2xl font-bold mb-6">Trending Apps</h2>
@@ -62,6 +69,7 @@ const Trending = () => {
                 <Link to="/apps" className="px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition">Show All</Link>
             </div>
         </div>
+    </>
     );
 };
 
